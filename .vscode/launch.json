@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/maxross/Code/cda/cache/part1",
+      "program": "/Users/maxross/Code/cda/cache/part1/build/Debug/outDebug"
+    }
+  ]
+}
