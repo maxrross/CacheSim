@@ -1,4 +1,2 @@
 # CacheSim
 Cache Simulation is a performance evaluation tool implemented in C++, designed to simulate the behavior of a computer cache. The simulation processes memory accesses in a given trace file, computes the number of cache hits and misses, and eventually calculates the hit rate. The cache configuration, such as size and block size, is flexible and can be adjusted as needed. The simulation supports both Fully Associative and N-way Associative caches, and implements two replacement policies: Least Recently Used (LRU) and First In, First Out (FIFO). It provides a deep understanding of cache operation and can be used to optimize computer memory performance.
-<iframe src="https://docs.google.com/document/d/19Dt8GLjcYWJMZUGIf5rjDF1Rn6vmVAtPt7k_ceIUBg4/preview" width="640" height="480" allow="autoplay"></iframe>
-
